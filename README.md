@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prayas aka Potato
-- ❤️ I Love web development and front-end development
-- 📖 Currently I'm learning Next
+- ❤️ I love fullstack development
+- 📖 Currently I'm learning system design
 - 🤝🏼 I’m ready to collaborate on any web-app or open source projects
 - 📫 You can reach me here: csaprayas@gmail.com
 
